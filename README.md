@@ -18,8 +18,8 @@ The main goals of this study are to:
 - **Promotional Strategies:** Assessed Metro’s loyalty programs (MOI vs. PC Optimum) and digital presence, with recommendations for improvement.
 
 ## 📈 Methodology
-Our research combined:
-- **Primary Data:** Surveys and customer feedback.
+Our analysis was conducted using:
+- **Excel:** Used for data cleaning, statistical analysis, and visualizations (pivot tables, charts, and trend lines).
 - **Secondary Data:** Reports from Statista, Vividata, and official Metro financial records.
 - **Comparative Analysis:** Benchmarking Metro against Food Basics using price perception and market share data.
 
@@ -34,13 +34,7 @@ Our research combined:
 3. **Targeted Marketing:** Tailor campaigns to highlight Metro’s eco-conscious efforts and Food Basics' affordability.
 4. **Regional Customization:** Adapt promotions based on regional preferences — urban vs. suburban shoppers.
 
-## 🛠️ Technologies Used
-- **Data Analysis:** Python, R
-- **Visualization:** Tableau
-- **Statistical Modeling:** SPSS, Excel
-- **Documentation:** LaTeX, Markdown
-
-## 🏷️ Authors
+## 🏷️ Team Members
 - Aparna Verma  
 - Mudit Kapoor  
 - Muhammad Ramis  
@@ -51,4 +45,5 @@ Our research combined:
 ---
 
 Feel free to explore the data, models, and recommendations we've developed. Contributions and feedback are welcome!
+
 
